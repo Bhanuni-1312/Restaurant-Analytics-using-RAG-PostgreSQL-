@@ -1,8 +1,0 @@
-openai>=1.40.0
-python-dotenv>=1.0.1
-psycopg2-binary>=2.9.9
-chromadb>=0.5.5
-sentence-transformers>=3.0.1
-
-fastapi>=0.110.0
-uvicorn[standard]>=0.29.0
